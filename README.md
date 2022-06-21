@@ -2,6 +2,8 @@
 
 Evento: Ignite Lab
 
+Pagina do Evento: https://evento.rocketseat.com.br/ignite-lab
+
 Data Inicio: 19 de Junho de 2022
 
 Status: Projeto em Desenvolvimento
@@ -10,7 +12,7 @@ Status: Projeto em Desenvolvimento
 Replica da plataforma do evento, onde será possivel se cadastrar para ter acesso ao conteudo exclusivo (Video Aulas e Materiais).
 
 ## Tecnologias
-- React + Typscript
+- React + Typscript (v18.0.0)
 - GraphQL
 - Apollo
 - GraphCMS
