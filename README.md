@@ -18,3 +18,6 @@ Replica da plataforma do evento, onde será possivel se cadastrar para ter acess
 ## Requisitos
 - node (v16.15.0)
 - npm (v8.5.5)
+
+## Materiais Complementares
+- Template (https://www.figma.com/file/sWkMXDMHRoPM7Ts8oe2TTX/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1)
